@@ -15,7 +15,6 @@
 
 <img alt="Static Badge" src="https://img.shields.io/badge/Framework-Flutter-blue?logo=flutter&logoColor=85C1E9">
 
-<img alt="Static Badge" src="https://img.shields.io/badge/Database-Hive-red?logo=hive">
 <br><br>
 <img alt="Static Badge" src="https://img.shields.io/badge/Tools-Figma-green?logo=figma">
 <img alt="Static Badge" src="https://img.shields.io/badge/Tools-Git-red?logo=git">
