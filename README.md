@@ -27,8 +27,9 @@
 <hr>
 <h4>🤝Connect with me:</h4>
 <div>
+<a href="https://www.linkedin.com/in/hossein-mohammadi-612683341/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
 <a href="https://instagram.com/hosseinmohammadi.dev"><img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/></a>
-<a href="https://t.me/Hossein_M_21"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/></a>
+<a href="https://t.me/Hossein_22_Mo"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/></a>
 <a href="mailto:hosseinmohammadi.dev22@yahoo.com"><img src="https://img.shields.io/badge/Email-darkblue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/></a>
 </div>
 <hr>
